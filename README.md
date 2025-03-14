@@ -10,4 +10,5 @@ I am an informatics eng student with experience in both design & programming. <b
 
 # 🎖️ Badges:
 ![CodeWars](https://www.codewars.com/users/rachiesa19/badges/micro)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![autocomplete](https://codeium.com/badges/user/stately-fertile-greenling-86681/autocomplete)](https://codeium.com/profile/stately-fertile-greenling-86681)
