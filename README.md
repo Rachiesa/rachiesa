@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an informatics eng student with experience in both design & programming. <br>Familiar with adobe photoshop, illustrator, and figma for ui/ux and graphic design. <br>Also familiar with html & css, and javascript
+I am an informatic engineering student with experience in both design & programming. <br>Familiar with adobe photoshop, illustrator, and figma for ui/ux and graphic design. <br>Also familiar with html & css, and javascript
 
 
 ## 🌐 Socials:
